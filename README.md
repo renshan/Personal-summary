@@ -34,10 +34,9 @@ Hello! I am [renshan]((http://weibo.com/u/3503103601)，是某个社交圈子里
 ### 游戏教程
 
 #### 微信打飞机
-[Cocos2d-x 微信打飞机游戏教程](http://shannn.com/archives/16)           
+- [Cocos2d-x 微信打飞机游戏教程](http://shannn.com/archives/16)           
 
 该教程所用Cocos2d-x版本我好想记得是2.2。它是本人学习了一个月 Cocos2d-x 后做出来的劳动成果，也是本人的处女作教程。记得当时写这个教程的时候我都还没毕业，什么都还不懂。所以现在看来写的蛮丢人的，代码也很垃圾，我都不忍心看了，也许这就是成长吧。不过对于刚入门的小白来说，我觉得本文的视觉角度还是很适合的，应该可以帮助小白快速理清Cocos2d-x项目架构。
-
 
 #### 三消类游戏
 - [使用Cocos2d-x制作三消类游戏Sushi Crush——第一部分](http://shannn.com/archives/105)
@@ -91,8 +90,8 @@ Hello! I am [renshan]((http://weibo.com/u/3503103601)，是某个社交圈子里
 这是本人第一次接触 Quick，第一次接触 Lua，所以该教程完全是站在一个初学者的角度来写，算是全方位的解析 Quick 的学习过程吧，本教程主要教大家如何利用 Quick-Cocos2d-x 开发一款属于自己的飞行游戏。作为初级教程的它，点阅量也很高的哦。
 
 #### 其他
-[使用Cocos2d-x实现微信“天天爱消除”炫耀button特效](http://shannn.com/archives/30)        
-[使用cocos2d-x实现一款类似《Flappy Bird》的游戏](http://shannn.com/archives/76)
+- [使用Cocos2d-x实现微信“天天爱消除”炫耀button特效](http://shannn.com/archives/30)        
+- [使用cocos2d-x实现一款类似《Flappy Bird》的游戏](http://shannn.com/archives/76)
 
 
 以上教程都是已经发布在本人博客[http://shannn.com](http://shannn.com)（珊奶奶.com）上的一些文章，还有部分没发布的、看不过去的，我今天就不例举了。总结作死也就只能写成这样，再次谢过支持我的童鞋了。有什么问题可以微博（[@涵紫任珊](http://weibo.com/u/3503103601)，汉子任珊）私信我的，我尽量帮助大家，么么嗒！
